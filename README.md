@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am Ryan Pais and i love to 💻 Code. I am curently learning 🌱 Typescript, Vue, and Laravel. If you have any 💬 questions for me you can ask me [here](https://github.com/Kidcredo/Kidcredo/issues)
+I am Ryan Pais and i love to 💻 Code. I am curently learning 🌱 Typescript, Svelte, and Laravel. If you have any 💬 questions for me you can ask me [here](https://github.com/Kidcredo/Kidcredo/issues)
 
 
 <img alt="Kidcredo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kidcredo&show_icons=true" />
